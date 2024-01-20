@@ -42,7 +42,7 @@ p {
 }
 
 .bgimg {
-    background-image: url(../../../assets/images/rio.jpg)
+    background-image: linear-gradient(rgba(9, 9, 9, 0.5), rgba(50, 42, 42, 0.5)), url(../../../assets/images/rio.jpg)
 }
 
 .bgimg2 {
