@@ -3909,21 +3909,21 @@ body.is-preload #banner:after {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: -webkit-linear-gradient(
       top,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: -ms-linear-gradient(
       top,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -4061,21 +4061,21 @@ body.landing #page-wrapper {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: -webkit-linear-gradient(
       top,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: -ms-linear-gradient(
       top,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -4098,21 +4098,21 @@ body.is-mobile.landing .wrapper.style4 {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: -webkit-linear-gradient(
       top,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: -ms-linear-gradient(
       top,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('../../images/bg/0.jpg');
+    url('../../images/bg/0-vignette.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
