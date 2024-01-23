@@ -1,0 +1,41 @@
+{
+  "name": "PHP'n Rio",
+  "short_name": "PHP'n Rio",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#fafafa",
+  "theme_color": "#505B93",
+  "screenshots": [
+    {
+      "src": "./images/screenshot.png",
+      "sizes": "1343x838",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Home screen"
+    },
+    {
+      "src": "./images/screenshot.png",
+      "sizes": "1343x838",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Home screen"
+    }
+  ],
+  "icons": [
+    {
+      "src": "./images/favicon/favicon-194x194.png",
+      "sizes": "194x194",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
