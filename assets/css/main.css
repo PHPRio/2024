@@ -7,6 +7,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+:root {
+  --php: #505b93;
+  --php-dark: #2d355c;
+}
+
 html,
 body,
 div,
@@ -2584,7 +2589,7 @@ input[type='reset'].primary,
 input[type='button'].primary,
 button.primary,
 .button.primary {
-  background-color: #ed4933;
+  background-color: var(--php);
   box-shadow: none !important;
   color: #ffffff !important;
 }
@@ -2594,7 +2599,7 @@ input[type='reset'].primary:hover,
 input[type='button'].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-  background-color: #ef5e4a !important;
+  background-color: var(--php-dark) !important;
 }
 
 input[type='submit'].primary:active,
@@ -2602,7 +2607,7 @@ input[type='reset'].primary:active,
 input[type='button'].primary:active,
 button.primary:active,
 .button.primary:active {
-  background-color: #eb341c !important;
+  background-color: var(--php-dark) !important;
 }
 
 input[type='submit'].disabled,
