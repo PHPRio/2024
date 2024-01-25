@@ -3902,8 +3902,7 @@ body.is-preload #banner:after {
 
 /* Main */
 
-#main > header {
-  padding: 12em 0 10em 0;
+.bg0 {
   background-image: -moz-linear-gradient(
       top,
       rgba(0, 0, 0, 0.5),
@@ -3928,6 +3927,64 @@ body.is-preload #banner:after {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.bg1 {
+  background-image: -moz-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../../images/rio.jpg');
+  background-image: -webkit-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../../images/rio.jpg');
+  background-image: -ms-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../../images/rio.jpg');
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('../../images/rio.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg2 {
+  background-image: -moz-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../../images/bg/6.jpg');
+  background-image: -webkit-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../../images/bg/6.jpg');
+  background-image: -ms-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../../images/bg/6.jpg');
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('../../images/bg/6.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#main > header {
+  padding: 12em 0 10em 0;
   text-align: center;
 }
 
